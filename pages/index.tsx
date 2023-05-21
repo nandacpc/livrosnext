@@ -15,7 +15,7 @@ export default function Home() {
       </Head>
       <Menu />
       <div className="container">
-        <main className={`${styles.main} ${inter.className}`}>
+        <main className={`${styles.main}`}>
           <h1 className={`${styles.title} display-2`}>Página Inicial</h1>
         </main>
       </div>
